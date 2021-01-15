@@ -32,7 +32,7 @@
 
 ### 🤝🏻 &nbsp; Find me at:
 
-<a href="https://twitter.com/a_man_kr_">
+<a href="https://twitter.com/a_man_kr">
   <img align="left" alt="Aman Kumar | Twitter" width="30px" src="icons/twitter.svg" />
 </a>
 
