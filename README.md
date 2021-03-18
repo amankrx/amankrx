@@ -40,7 +40,7 @@
   <img align="left" alt="Aman Kumar | LinkedIN" width="30px" src="icons/linkedin.svg" />
 </a>
 
-<a href="https://gitlab.com/amankr1619">
+<a href="https://gitlab.gnome.org/amankr1619">
   <img align="left" alt="Aman Kumar | Gitlab" width="30px" src="icons/gitlab.png" />
 </a>
 
