@@ -65,6 +65,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=radical&show_icons=true" alt="amankrx" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amankrx&theme=radical&show_icons=true" alt="amankrx" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=radical&show_icons=true" alt="amankr1619" />
 
 ![](https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views)
