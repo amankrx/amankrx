@@ -32,23 +32,23 @@
 
 ### 🤝🏻 &nbsp; Find me at:
 
-<a href="https://twitter.com/a_man_kr">
+<a href="https://twitter.com/amankrx">
   <img align="left" alt="Aman Kumar | Twitter" width="30px" src="icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/aman-kumar-7a34571b2/">
+<a href="https://www.linkedin.com/in/amankrx/">
   <img align="left" alt="Aman Kumar | LinkedIN" width="30px" src="icons/linkedin.svg" />
 </a>
 
-<a href="https://gitlab.gnome.org/amankr1619">
+<a href="https://gitlab.gnome.org/amankrx">
   <img align="left" alt="Aman Kumar | Gitlab" width="30px" src="icons/gitlab.png" />
 </a>
 
-<a href="https://www.codechef.com/users/codecaine">
+<a href="https://www.codechef.com/users/amankrx">
   <img align="left" alt="Aman Kumar | Codechef" width="30px" src="icons/codechef.png" />
 </a>
 
-<a href="https://codeforces.com/profile/codecaine">
+<a href="https://codeforces.com/profile/amankrx">
   <img align="left" alt="Aman Kumar | Codeforces" width="22px" src="icons/codeforces.png" />
 </a>
 
@@ -63,8 +63,8 @@
 
 ### 📈 Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amankr1619&count_private=true&theme=radical&show_icons=true" alt="amankr1619" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amankrx&count_private=true&theme=radical&show_icons=true" alt="amankrx" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=radical&show_icons=true" alt="amankr1619" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amankrx&theme=radical&show_icons=true" alt="amankrx" />
 
 ![](https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views)
