@@ -12,15 +12,6 @@
 	<a href="mailto:amankr1619@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.codechef.com/users/amankrx">
-		<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
-	</a>
-  <a href="https://codeforces.com/profile/amankrx/">
-		<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-	</a>
-	<a href="https://leetcode.com/amankrx/">
-		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-	</a>
 </p>
 
 <p align="center">
