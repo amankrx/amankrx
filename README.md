@@ -25,7 +25,7 @@
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
 <p>🌱 &nbsp;I'm on track for learning more about Systems Design, Rust, and get into Open Source.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/11rWbsS1zyjlc9fwDjUv29cuRmsLjUmQ4/view?usp=sharing">Résumé</a> for more details about me.</p>
+<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1kf_H6cOm7AcuRvEcbExztr9ie5qTGeiL/view?usp=sharing">Résumé</a> for more details about me.</p>
 
 <br />
 
