@@ -20,10 +20,12 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
+<p>🗯️ &nbsp;I’m currently looking for an Entry/Junior level Software Development or Rust Development role or an internship in the same field.</p>
+<p>❄️ &nbsp;I’m currently learning Blockchain, STARKs, zk-proofs, Substrate and working on projects with Rust.</p>
 <p>🎓 &nbsp;I'm currently a final year undergraduate studying Computer Science Engineering at <a href = "https://iiitn.ac.in/">IIIT Nagpur</a>.</p>
-<p>🔭 &nbsp;I’m currently working as a Google Summer of Code Intern at <a href="https://www.gnome.org/">GNOME Organization</a>.</p>
+<p>🔭 &nbsp;I’ve previously worked as a Google Summer of Code Intern at <a href="https://www.gnome.org/">GNOME Organization</a> and as a Backend Developer for Nametrade.</p>
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
-<p>🌱 &nbsp;I'm on track for learning more about Systems Design, Rust, and get into Open Source.</p>
+<p>🌱 &nbsp;I'm on track for learning more about Blockchain, Rust, and get into Open Source.</p>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
 <p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1kf_H6cOm7AcuRvEcbExztr9ie5qTGeiL/view?usp=sharing">Résumé</a> for more details about me.</p>
 
@@ -68,6 +70,9 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
+	<a href="https://github.com/amankrx/Health">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
+	</a>
 	<a href="https://github.com/amankrx/portfolio">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=portfolio&hide_border=true&theme=dark&show_icons=true" />
 	</a>
@@ -76,8 +81,5 @@
 	</a>
 	<a href="https://github.com/amankrx/Healthsy">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Healthsy&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/Health">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
