@@ -20,14 +20,13 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>🗯️ &nbsp;I’m currently looking for an Entry/Junior level Software Development or Rust Development role or an internship in the same field.</p>
-<p>❄️ &nbsp;I’m currently learning Blockchain, STARKs, zk-proofs, Substrate and working on projects with Rust.</p>
-<p>🎓 &nbsp;I'm currently a final year undergraduate studying Computer Science Engineering at <a href = "https://iiitn.ac.in/">IIIT Nagpur</a>.</p>
-<p>🔭 &nbsp;I’ve previously worked as a Google Summer of Code Intern at <a href="https://www.gnome.org/">GNOME Organization</a> and as a Backend Developer for Nametrade.</p>
-<p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
-<p>🌱 &nbsp;I'm on track for learning more about Blockchain, Rust, and get into Open Source.</p>
-<p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1kf_H6cOm7AcuRvEcbExztr9ie5qTGeiL/view?usp=sharing">Résumé</a> for more details about me.</p>
+<p>👋 &nbsp;Hi there! I'm Aman, a Quant Analyst intern at a High Frequency Trading firm.</p>
+<p>🔍 &nbsp;I'm actively seeking roles as a Quant Developer or Software Developer, with a focus on low latency and Quant projects.</p>
+<p>🚀 &nbsp;My technical skillset includes Rust, C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
+<p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Quantitative Finance and expanding my knowledge of advanced algorithms and data structures.</p>
+<p>💼 &nbsp;In the past, I have worked as a Google Summer of Code Intern at GNOME Organization and as a Backend Developer for Nametrade.</p>
+<p>📄 &nbsp;Please check out my <a href="https://www.dropbox.com/s/qoc8tgmzj5q6b96/Aman_Kumar_Resume.pdf?dl=0">Resume</a> for more information about my experience and skills.</p>
+<p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
 <br />
 
