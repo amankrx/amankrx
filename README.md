@@ -25,7 +25,7 @@
 <p>🚀 &nbsp;My technical skillset includes Rust, C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
 <p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Quantitative Finance and expanding my knowledge of advanced algorithms and data structures.</p>
 <p>💼 &nbsp;In the past, I have worked as a Google Summer of Code Intern at GNOME Organization and as a Backend Developer for Nametrade.</p>
-<p>📄 &nbsp;Please check out my <a href="https://www.dropbox.com/s/qoc8tgmzj5q6b96/Aman_Kumar_Resume.pdf?dl=0">Resume</a> for more information about my experience and skills.</p>
+<p>📄 &nbsp;Please check out my <a href="https://www.dropbox.com/s/ou44ut5rmxh2w8m/Aman_Kumar_Resume.pdf?dl=0">Resume</a> for more information about my experience and skills.</p>
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
 <br />
