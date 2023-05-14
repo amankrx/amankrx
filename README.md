@@ -69,6 +69,9 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
+	<a href="https://github.com/amankrx/Declutter">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Healthsy&hide_border=true&theme=dark&show_icons=true" />
+	</a>
 	<a href="https://github.com/amankrx/Health">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
 	</a>
@@ -77,8 +80,5 @@
 	</a>
 	<a href="https://github.com/amankrx/amankrx">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/Healthsy">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Healthsy&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
