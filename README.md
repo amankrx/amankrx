@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=dark&show_icons=true" alt="amankr1619" />
+	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankrx&theme=dark&show_icons=true" alt="amankrx" />
 </p>
 
 <hr />
