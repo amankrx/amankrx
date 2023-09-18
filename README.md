@@ -30,7 +30,6 @@
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
 <br />
--->
 ## 🛠 &nbsp;Tech Stack:
 
 ### 💻 &nbsp;Languages:
@@ -66,6 +65,7 @@
 </p>
 
 <hr />
+-->
 
 ## 📕 Pinned Repositories
 
