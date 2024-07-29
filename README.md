@@ -6,13 +6,17 @@
 	<a href="https://www.linkedin.com/in/amankrx/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  <a href="https://gitlab.gnome.org/amankrx/">
+  	<a href="https://gitlab.gnome.org/amankrx/">
 		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 	</a>
 	<a href="mailto:amankr1619@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+	<a href="[https://discord.com/users/your-discord-id](http://discordapp.com/users/627273341337862154)">
+		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+	</a>
 </p>
+
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views" />
@@ -70,16 +74,16 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
-	<a href="https://github.com/amankrx/Declutter">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Declutter&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/amankrx/Health">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
-	</a>
 	<a href="https://github.com/amankrx/matching-engine-rs">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=matching-engine-rs&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/amankrx/amankrx">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=amankrx&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/Declutter">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Declutter&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/amankrx/Health">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrx&repo=Health&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
